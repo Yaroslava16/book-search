@@ -46,7 +46,7 @@ export default {};
       right: 0;
       width: 5vw;
       height: 5vw;
-      border: none;
+      border: 0.3vw solid black;
       background: #ffe066;
       border-radius: 50%;
       cursor: pointer;
